@@ -1,2 +1,2 @@
 # JokesApp
-Returns the random joke in the Chuck Norris style.
+Java Bean Configuration, using @Configuration and @Bean annotations.
